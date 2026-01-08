@@ -1,4 +1,7 @@
-# Google-Cybersecurity-Course-Worksheets
+# Google Cybersecurity Professional Course Worksheets
+My foundation in information security begins with this certificate that delves into cybersecurity practices, frameworks, understanding and identifying risks, threats and vulnerabilties and SIEM tools to hands on experience with Python, Linux, SQL. 
+
+This led to pursuing a COMPTIA 
 
 <img width="595" height="478" alt="Screenshot 2026-01-08 at 19 28 38" src="https://github.com/user-attachments/assets/ce5a1b68-6ca1-4fc3-9859-83a500d9e401" />
 <img width="567" height="367" alt="Screenshot 2026-01-08 at 19 28 06" src="https://github.com/user-attachments/assets/124a911c-d798-42a2-9710-72b9acaa41ad" />
