@@ -19,5 +19,7 @@ My continued self-study, technical projects, and certifications demonstrate both
 | Security Automation | <a href="https://github.com/sajisivarupan-25/Security-Automation">Screengrabs</a>|
 | Incident Management | <a href="https://github.com/sajisivarupan-25/Incident-Management-">Screengrabs</a>|
 | Risk and Vulnerability Management | <a href="https://github.com/sajisivarupan-25/Risk-and-Vulnerability-Management-">Screengrabs</a>|
+| SOC Lab | <a href="https://github.com/sajisivarupan-25/Google-Cybersecurity-Course-Worksheets">EXAMPLE</a>|
+
 
 </div>
