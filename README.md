@@ -14,7 +14,7 @@ As part of my self-directed home lab development, I:
 
 My continued self-study, technical projects, and certifications demonstrate both my commitment and persistence toward building a career in cybersecurity. I have also included coursework and practical worksheets from the Google Cybersecurity Professional Certificate that reflect real-world SOC Analyst and security operations responsibilities.
 
-# Screenshots
+# Google Cybersecurity Professional Course Portfolio
 <img width="595" height="478" alt="Screenshot 2026-01-08 at 19 28 38" src="https://github.com/user-attachments/assets/ce5a1b68-6ca1-4fc3-9859-83a500d9e401" />
 <img width="567" height="367" alt="Screenshot 2026-01-08 at 19 28 06" src="https://github.com/user-attachments/assets/124a911c-d798-42a2-9710-72b9acaa41ad" />
 <img width="568" height="619" alt="Screenshot 2026-01-08 at 19 27 45" src="https://github.com/user-attachments/assets/169f4885-f4ec-40ce-84c6-2d2f8fde310a" />
