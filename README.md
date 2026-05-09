@@ -16,9 +16,8 @@ My continued self-study, technical projects, and certifications demonstrate both
 
 | Google Cybersecurity Professional Course  
 |-----------------------------------------------|
- <a href="https://github.com/sajisivarupan-25/Security-Automation">Screengrabs</a>|
-| Incident Management | <a href="https://github.com/sajisivarupan-25/Incident-Management-">Screengrabs</a>|
-| Risk and Vulnerability Management | <a href="https://github.com/sajisivarupan-25/Risk-and-Vulnerability-Management-">Screengrabs</a>|
-
+<a href="https://github.com/sajisivarupan-25/Incident-Management-">Incident Management</a>|
+<a href="https://github.com/sajisivarupan-25/Risk-and-Vulnerability-Management-">Risk and Vulnerability Management</a>|
+<a href="https://github.com/sajisivarupan-25/Security-Automation">Security Automations</a>|
 
 </div>
