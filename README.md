@@ -16,8 +16,8 @@ My continued self-study, technical projects, and certifications demonstrate both
 
 <h2>Google Cybersecurity Professional Course Portfolio</h2>
 
-# Security Automation
-# Incident Management 
-# Risk and Vulnerability Management 
-# Threat Detection and Packet Analysis 
+<h3>Security Automation</h3>
+<h3>Incident Management</h3>
+<h3>Risk and Vulnerability Management</h3>
+<h3>Threat Detection and Packet Analysis </h3>
 </div>
