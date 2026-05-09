@@ -18,6 +18,6 @@ My continued self-study, technical projects, and certifications demonstrate both
 |-----------------------------------------------|
 <a href="https://github.com/sajisivarupan-25/Incident-Management-">Incident Management</a>|
 <a href="https://github.com/sajisivarupan-25/Risk-and-Vulnerability-Management-">Risk and Vulnerability Management</a>|
-<a href="https://github.com/sajisivarupan-25/Security-Automation">Security Automations</a>|
+<a href="https://github.com/sajisivarupan-25/Security-Automation">Security Automation</a>|
 
 </div>
