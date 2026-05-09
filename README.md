@@ -1,4 +1,4 @@
-<h1>Heading Level 1</h1> # SOC Lab 
+<h1>SOC LAB</h1> 
 My cybersecurity journey began with the Google Cybersecurity Professional Certificate, where I developed foundational knowledge across security operations, threat detection, risk management, and vulnerability assessment. Through hands-on labs and practical exercises, I worked with SIEM tools, analysed security events, investigated Indicators of Compromise, and gained technical experience using Python, Linux, and SQL within security-focused environments.
 
 To strengthen and validate my technical understanding, I progressed to CompTIA Security+, which I successfully passed on my first attempt through disciplined self-study and practical lab work. Alongside this, I expanded my cloud security and identity management knowledge through Microsoft Azure Fundamentals (AZ-900), focusing on Microsoft Entra ID, Role-Based Access Control (RBAC), Multi-Factor Authentication (MFA), and Zero Trust security principles.
