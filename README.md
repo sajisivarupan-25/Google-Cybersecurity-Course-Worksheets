@@ -16,7 +16,7 @@ My continued self-study, technical projects, and certifications demonstrate both
 
 | Google Cybersecurity Professional Course Portfolio        | Projects       |
 |-----------------------------------------------|----------------------------|
-| Security Automation | <a href="">Worksheets</a>|
+| Security Automation | <a href="">Screengrabs</a>|
 
 <h3>Security Automation</h3>
 <h3>Incident Management</h3>
