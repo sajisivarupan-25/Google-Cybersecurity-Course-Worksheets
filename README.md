@@ -1,5 +1,18 @@
 # SIEM/SOC Lab
-My start in information security begins with this certificate that delves into cybersecurity practices, frameworks, understanding and identifying risks, threats and vulnerabilties and SIEM tools to hands on experience with Python, Linux, SQL. I gained valuable knowledge and a solid foundation, building towards a career transition, and decided to follow up by testing my skillsets with a COMPTIA Security+ certificate, which I passed on my first time learning from various study materials. I hope that my journey so far demonstrates my eagerness and perservance towards my first role in Information security. I have included some of my worksheets from Google's course that highlight my experience with real world job responsibilites. 
+My cybersecurity journey began with the Google Cybersecurity Professional Certificate, where I developed foundational knowledge across security operations, threat detection, risk management, and vulnerability assessment. Through hands-on labs and practical exercises, I worked with SIEM tools, analysed security events, investigated Indicators of Compromise, and gained technical experience using Python, Linux, and SQL within security-focused environments.
+
+To strengthen and validate my technical understanding, I progressed to CompTIA Security+, which I successfully passed on my first attempt through disciplined self-study and practical lab work. Alongside this, I expanded my cloud security and identity management knowledge through Microsoft Azure Fundamentals (AZ-900), focusing on Microsoft Entra ID, Role-Based Access Control (RBAC), Multi-Factor Authentication (MFA), and Zero Trust security principles.
+
+As part of my self-directed home lab development, I:
+
+* Built and managed Active Directory lab environments with user administration, access controls, and authentication monitoring
+* Simulated SOC workflows using SIEM platforms to investigate alerts, correlate logs, and map activity using the MITRE ATT&CK framework
+* Performed packet analysis with Wireshark to inspect TCP/IP traffic and identify suspicious network behaviour
+* Conducted vulnerability assessments using CVE/CVSS frameworks and developed remediation recommendations based on risk prioritisation
+* Developed Python scripts to automate log parsing and streamline security event analysis
+* Practised incident response workflows aligned with NIST SP 800-61 standards, including ticket triage, escalation, and documentation
+
+My continued self-study, technical projects, and certifications demonstrate both my commitment and persistence toward building a career in cybersecurity. I have also included coursework and practical worksheets from the Google Cybersecurity Professional Certificate that reflect real-world SOC Analyst and security operations responsibilities.
 
 # Screenshots
 <img width="595" height="478" alt="Screenshot 2026-01-08 at 19 28 38" src="https://github.com/user-attachments/assets/ce5a1b68-6ca1-4fc3-9859-83a500d9e401" />
