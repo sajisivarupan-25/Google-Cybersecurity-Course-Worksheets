@@ -16,7 +16,7 @@ My continued self-study, technical projects, and certifications demonstrate both
 
 <div>
 <h2>Google Cybersecurity Professional Course Portfolio</h2> 
-<a href="https://github.com/sajisivarupan-25/Incident-Management-">Incident Management</a> 
-<a href="https://github.com/sajisivarupan-25/Risk-and-Vulnerability-Management-">Risk and Vulnerability Management</a>
-<a href="https://github.com/sajisivarupan-25/Security-Automation">Security Automation</a>
+<a href="https://github.com/sajisivarupan-25/Incident-Management-">Incident Management</a>|
+<a href="https://github.com/sajisivarupan-25/Risk-and-Vulnerability-Management-">Risk and Vulnerability Management</a>|
+<a href="https://github.com/sajisivarupan-25/Security-Automation">Security Automation</a>|
 </div>
