@@ -17,7 +17,7 @@ My continued self-study, technical projects, and certifications demonstrate both
 | Google Cybersecurity Professional Course Portfolio        | Projects       |
 |-----------------------------------------------|----------------------------|
 | Security Automation | <a href="https://github.com/sajisivarupan-25/Security-Automation">Screengrabs</a>|
-| Incident Management | <a href="https://github.com/sajisivarupan-25/Security-Automation">Screengrabs</a>|
+| Incident Management | <a href="https://github.com/sajisivarupan-25/Incident-Management-">Screengrabs</a>|
 | Risk and Vulnerability Management | <a href="https://github.com/sajisivarupan-25/Security-Automation">Screengrabs</a>|
 | Threat Detection and Packet Analysis | <a href="https://github.com/sajisivarupan-25/Security-Automation">Screengrabs</a>|
 
